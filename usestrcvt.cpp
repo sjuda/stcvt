@@ -1,3 +1,9 @@
+#include "stdafx.h"
+#include <stdio.h>
+#include "iostream"
+#include "StringConvert.h"
+using namespace std;
+
 int main() {
 
 try
